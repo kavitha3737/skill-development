@@ -7,6 +7,11 @@
            <input type="button" id="submit" value="multiplication" onclick="multiplication()"/>
 	    <center>
 	<script>   
+	
+	
+	
+	
+	
 	   function multiplication()
 	   {
 		  var firstNumber = document.getElementById('num1').value;
