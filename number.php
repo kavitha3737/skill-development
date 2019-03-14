@@ -8,10 +8,6 @@
 	    <center>
 	<script>   
 	
-	
-	
-	
-	
 	   function multiplication()
 	   {
 		  var firstNumber = document.getElementById('num1').value;
